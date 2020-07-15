@@ -3,7 +3,7 @@
 <!--
 **horaciod/horaciod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Algunas de las cosas en las que estoy trabajando:
+My current status: 
 
 - 🔭 I’m currently working on ExpoeducativaVirtual.mendoza.edu.ar
 - 🌱 I’m currently learning laravel, livewire and VUEJS
