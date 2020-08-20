@@ -12,4 +12,4 @@ My current status:
 - 💬 Ask me about libraries 
 - 📫 How to reach me: twitter::  @horaciodegiorgi
 - ⚡ Fun fact: cansado de la pandemia!!!
-
+- <> Estudiando en Platzi. 
