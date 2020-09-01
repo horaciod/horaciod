@@ -13,3 +13,7 @@ My current status:
 - 📫 How to reach me: twitter::  @horaciodegiorgi
 - ⚡ Fun fact: cansado de la pandemia!!!
 - <> Estudiando en Platzi. 
+
+My writings:
+
+- [DEV.TO](https://dev.to/horaciodegiorgi/)
