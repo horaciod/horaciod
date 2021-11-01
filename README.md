@@ -16,3 +16,6 @@ My current status:
 My writings:
 
 - [DEV.TO](https://dev.to/horaciodegiorgi/)
+
+Other stuff 
+[linktree](https://linktr.ee/horaciod)
