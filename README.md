@@ -10,7 +10,7 @@ My current status:
 - 👯 I’m looking to collaborate on laravel packages, postgresql and Eloquent
 - 💬 Ask me about libraries 
 - 📫 How to reach me: twitter::  @horaciodegiorgi
-- ⚡ Fun fact: cansado de la pandemia!!!
+- ⚡ Fun fact: no alcanzo a leer todo lo interesante que pasa en internet !
 - <> Estudiando en Platzi. 
 
 My writings:
