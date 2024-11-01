@@ -11,7 +11,7 @@ My current status:
 - 💬 Ask me about libraries 
 - 📫 How to reach me: twitter::  @horaciodegiorgi
 - ⚡ Fun fact: no alcanzo a leer todo lo interesante que pasa en internet !
-- <> Estudiando en Platzi. 
+- <> Estudiando en Platzi, laraveldaily  y youtube. 
 
 My writings:
 
