@@ -17,5 +17,9 @@ My writings:
 
 - [DEV.TO](https://dev.to/horaciodegiorgi/)
 
+[![Horaciod GitHub stats](https://github-readme-stats.vercel.app/api?username=horaciod&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+(lástima que no pueda mostrar mis sistemas internos ... ;) ) 
+
 Other stuff 
 [linktree](https://linktr.ee/horaciod)
