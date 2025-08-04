@@ -14,7 +14,7 @@ My current status:
 - <> Estudiando en Platzi, laraveldaily  y youtube. 
 
 My writings:
-
+[![Dev.to](https://github-readme-blog-cards.onrender.com?url=https://dev.to/horaciodegiorgi/)](https://dev.to/horaciodegiorgi/)
 - [DEV.TO](https://dev.to/horaciodegiorgi/)
 
 [![Horaciod GitHub stats](https://github-readme-stats.vercel.app/api?username=horaciod&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
